@@ -1,90 +1,113 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Sri Nikesh Ramesh</strong>
 </h1>
 
-<h3>Software Developer | Java • Spring Boot • AWS • ReactJS</h3>
+<h3>Software Developer | Java • Spring Boot • AWS • Microservices • React</h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+---
 
-  <p>
-    [span_0](start_span)I am a Software Developer focused on building and optimizing scalable, cloud-native systems[span_0](end_span). 
-    [span_1](start_span)I specialize in developing microservices with Spring Boot[span_1](end_span) and automating infrastructure on AWS 
-    [span_2](start_span)to deliver high-performance backend solutions[span_2](end_span).
-  </p>
+## 👨‍💻 About Me
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_Bengaluru,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:rameshsrinikesh@gmail.com"><img src="https://img.shields.io/badge/📧_rameshsrinikesh@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
-  </p>
+Software Developer with professional experience building scalable, cloud-native applications using **Java, Spring Boot, AWS, and ReactJS**.
 
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/CHAOSNicky">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white&logo=github" />
-  </a>
+I focus on designing reliable backend systems, optimizing performance, and delivering production-ready microservices. My work has improved system throughput, reduced latency, and maintained high availability through automated cloud deployments.
 
-  <a href="https://linkedin.com/in/sri-nikesh-ramesh-540697260">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin" />
-  </a>
-</p>
+- 📍 Bengaluru, India  
+- 📧 rameshsrinikesh@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/sri-nikesh-ramesh-540697260  
+- 💻 GitHub: https://github.com/CHAOSNicky  
+- 🤝 Open to collaboration on backend, cloud, and full-stack projects  
 
-  <img src="https://komarev.com/ghpvc/?username=CHAOSNicky&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+---
 
-<br clear="all" />
+## 💼 Experience
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Languages & Backend</h3>
- <img src="https://skillicons.dev/icons?i=java,js,spring,hibernate" />
-<br/><br/>
-</td>
+### **Software Developer — Tata Elxsi Limited**  
+*Jan 2025 – Present | Bangalore, India*
 
-<td width="50%" align="center">
-   <h3>📚 Cloud & Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
-</td>
-</tr>
+- Developed and deployed **Spring Boot microservices**, reducing service dependencies by 30%.  
+- Automated AWS infrastructure (EC2, S3, SQS, Lambda) using IaC, lowering deployment errors by 40% and maintaining 99.9% uptime.  
+- Integrated backend modules across cross-functional teams, reducing integration issues by 25%.  
+- Improved API performance by ~200ms using caching, async processing, and connection pooling.  
+- Built internal React dashboards that increased visualization speed by 20%.  
 
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases & Caching</h3>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis" />
-<br/><br/>
-</td>
+---
 
-<td width="50%" align="center">
-    <h3>🧰 Frontend & Tools</h3>
-    <img src="https://skillicons.dev/icons?i=react,html,css,git,postman,vscode" />
-</td>
-</tr>
-</table>
-</p>
+## 🚀 Featured Project
 
-## 🚀 Key Highlights
-* **[span_3](start_span)Professional Experience**: Currently developing microservices at Tata Elxsi for the Honda program[span_3](end_span).
-* **[span_4](start_span)[span_5](start_span)Performance Engineering**: Improved backend throughput by 30% and achieved 99.9% uptime via automated AWS deployments[span_4](end_span)[span_5](end_span).
-* **[span_6](start_span)Cloud Native**: Proficient in AWS services including EC2, S3, Lambda, and DynamoDB[span_6](end_span).
-* **[span_7](start_span)Full Stack Project**: Architected *The Urban Muse*, a real-time e-commerce platform supporting 1,000+ concurrent users[span_7](end_span).
+### **The Urban Muse — Real-Time E-Commerce Platform**
+
+**Tech Stack:** Spring Boot, Spring Security, React.js, Redis, PostgreSQL, AWS S3
+
+- Built a full-stack e-commerce platform supporting **1000+ concurrent users**.  
+- Implemented JWT authentication and secure session management.  
+- Designed 20+ REST APIs for products, cart, and orders.  
+- Reduced latency by 40% using Redis caching and query optimization.  
+- Integrated AWS S3 pre-signed URLs, cutting backend load by 30%.  
+- Developed reusable, responsive React components covering 50%+ of UI.  
+- Designed a scalable, fault-tolerant payment service architecture.  
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+- Java  
+- JavaScript  
+
+### **Backend & Web**
+- Spring Boot  
+- Spring Security  
+- REST APIs  
+- ReactJS  
+- HTML/CSS  
+
+### **Cloud & Infrastructure**
+- AWS (EC2, S3, IAM, VPC, ECS, DynamoDB, Route53, CloudFront, Lambda)  
+- Docker  
+- Kubernetes  
+- Microservices Architecture  
+
+### **Databases & Caching**
+- PostgreSQL  
+- Redis  
+
+### **OS & Networking**
+- Linux (Ubuntu)  
+- DNS, HTTP, TCP/UDP  
+
+---
+
+## 📜 Certifications
+
+- Skillrack — Java Programming (Hands-On)  
+- Confluent — Data Streaming Engineer  
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science and Technology**  
+Karpagam College of Engineering, Coimbatore  
+2020 – 2024  
+CGPA: 8.2 / 10  
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=CHAOSNicky&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=CHAOSNicky&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-<p align="center">
-  <em>"Turning complex requirements into scalable digital reality."</em>
-</p>
+## 🤝 Let's Connect
+
+I’m interested in backend engineering, distributed systems, and cloud-native development. If you’re working on something impactful in these areas, I’d be glad to collaborate.
+
+---
+
+⭐️ From [Sri Nikesh Ramesh](https://github.com/CHAOSNicky)
