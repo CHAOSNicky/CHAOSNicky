@@ -11,9 +11,9 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    [span_1](start_span)I am a Software Developer[span_1](end_span) [span_2](start_span)focused on building and optimizing scalable, cloud-native systems[span_2](end_span). 
-    [span_3](start_span)I specialize in developing microservices with Spring Boot[span_3](end_span) [span_4](start_span)and automating infrastructure on AWS[span_4](end_span) 
-    to deliver high-performance backend solutions.
+    [span_0](start_span)I am a Software Developer focused on building and optimizing scalable, cloud-native systems[span_0](end_span). 
+    I specialize in developing microservices with Spring Boot and automating infrastructure on AWS 
+    [span_1](start_span)to deliver high-performance backend solutions[span_1](end_span).
   </p>
 
   <p>
@@ -71,10 +71,10 @@
 </p>
 
 ## 🚀 Key Highlights
-* **[span_5](start_span)Professional Experience**: Currently developing microservices at Tata Elxsi for the Honda program.[span_5](end_span)
-* **[span_6](start_span)[span_7](start_span)Performance Engineering**: Improved backend throughput by 30% and achieved 99.9% uptime via automated AWS deployments.[span_6](end_span)[span_7](end_span)
-* **[span_8](start_span)[span_9](start_span)Cloud Native**: Proficient in AWS services including EC2, S3, Lambda, and DynamoDB.[span_8](end_span)[span_9](end_span)
-* **[span_10](start_span)Full Stack Project**: Architected *The Urban Muse*, a real-time e-commerce platform supporting 1,000+ concurrent users.[span_10](end_span)
+* **[span_2](start_span)Professional Experience**: Currently developing microservices at Tata Elxsi for the Honda program[span_2](end_span).
+* **[span_3](start_span)[span_4](start_span)Performance Engineering**: Improved backend throughput by 30% and achieved 99.9% uptime via automated AWS deployments[span_3](end_span)[span_4](end_span).
+* **[span_5](start_span)[span_6](start_span)Cloud Native**: Proficient in AWS services including EC2, S3, Lambda, and DynamoDB[span_5](end_span)[span_6](end_span).
+* **[span_7](start_span)Full Stack Project**: Architected *The Urban Muse*, a real-time e-commerce platform supporting 1,000+ concurrent users[span_7](end_span).
 
 ## 📊 GitHub Stats
 
