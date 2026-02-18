@@ -66,7 +66,7 @@ I enjoy turning complex requirements into reliable systems that scale. Most of m
 </p>
 
 - Spring Boot  
-- **Spring Security**  
+- Spring Security
 - REST APIs  
 - Microservices Architecture  
 
@@ -77,7 +77,7 @@ I enjoy turning complex requirements into reliable systems that scale. Most of m
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 </p>
 
-- AWS (EC2, S3, IAM, VPC, ECS, Lambda, DynamoDB)  
+- AWS (EC2, S3, IAM, VPC, ECS, Lambda, DynamoDB, SQS, SNS)  
 - Docker  
 - Kubernetes  
 - Infrastructure as Code  
@@ -98,7 +98,9 @@ I enjoy turning complex requirements into reliable systems that scale. Most of m
 <p>
 <img src="https://skillicons.dev/icons?i=git,idea,postman,linux" />
 </p>
-
+- Linux
+- GitHub
+- Postman
 - IntelliJ IDEA  
 - Antigravity  
 
