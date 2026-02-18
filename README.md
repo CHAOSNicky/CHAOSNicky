@@ -58,13 +58,15 @@ I enjoy turning complex requirements into reliable systems that scale. Most of m
 <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
-### ⚙️ Backend & Architecture
+---
+
+### ⚙️ Backend & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 - Spring Boot  
-- Spring Security  
+- **Spring Security**  
 - REST APIs  
 - Microservices Architecture  
 
@@ -94,8 +96,11 @@ I enjoy turning complex requirements into reliable systems that scale. Most of m
 
 ### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,idea,postman,linux" />
 </p>
+
+- IntelliJ IDEA  
+- Antigravity  
 
 ---
 
@@ -128,14 +133,14 @@ CGPA: 8.2 / 10
 
 ## 🤝 Let's Connect
 
-I’m always interested in:
+I’m interested in:
 
 - Backend engineering challenges  
 - Distributed systems  
 - Cloud-native architecture  
 - High-scale product engineering  
 
-If you're building something meaningful in these spaces, I’m happy to collaborate.
+If you're building something meaningful in these spaces, I’d be glad to collaborate.
 
 ---
 
